@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,6 @@
 ## Issues
 
 
+=======
+# MyFirstRepo
+>>>>>>> 956b787e7e2c4803945f243b2d800f67a24122b1
